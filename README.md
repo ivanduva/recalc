@@ -1,6 +1,6 @@
 # ReCalc
 
-Calculadora con funciones simples.
+Calculadora con funciones fáciles.
 
 ## Dependencias
 
